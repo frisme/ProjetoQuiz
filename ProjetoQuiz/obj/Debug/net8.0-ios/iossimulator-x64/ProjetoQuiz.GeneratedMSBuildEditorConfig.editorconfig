@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/GamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.GamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = GamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = GamePage.xaml
+
 [C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.MainPage.xaml
