@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\ProjetoQuiz\\ProjetoQuiz\\ProjetoQuiz.csproj": {}
+    "C:\\Users\\Aluno\\ProjetoQuiz-1\\ProjetoQuiz\\ProjetoQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\ProjetoQuiz\\ProjetoQuiz\\ProjetoQuiz.csproj": {
+    "C:\\Users\\Aluno\\ProjetoQuiz-1\\ProjetoQuiz\\ProjetoQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\ProjetoQuiz\\ProjetoQuiz\\ProjetoQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\ProjetoQuiz-1\\ProjetoQuiz\\ProjetoQuiz.csproj",
         "projectName": "ProjetoQuiz",
-        "projectPath": "C:\\Users\\Aluno\\ProjetoQuiz\\ProjetoQuiz\\ProjetoQuiz.csproj",
+        "projectPath": "C:\\Users\\Aluno\\ProjetoQuiz-1\\ProjetoQuiz\\ProjetoQuiz.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\ProjetoQuiz\\ProjetoQuiz\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\ProjetoQuiz-1\\ProjetoQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

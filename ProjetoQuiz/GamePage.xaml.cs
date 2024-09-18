@@ -2,17 +2,24 @@ namespace ProjetoQuiz;
 
 public partial class GamePage : ContentPage
 {
-	Questao questao;
-
-	
     public GamePage()
     {
         InitializeComponent();
-        Desenhar();
-        questao.Question ="Qual é o maior oceano do planeta Terra?";
     }
-    public void Desenhar()
+
+    // Evento de clique das respostas
+    private void OnRespostaClicked(object sender, EventArgs e)
     {
-        LabelQuestion.Text = questao.Question;
+        Button button = (Button)sender;
+
+        // Simular a verificação da resposta correta (você pode alterar para lógica real)
+        if (button.Text == "Resposta Correta")
+        {
+            DisplayAlert("Correto!", "Você acertou!", "OK");
+        }
+        else
+        {
+            DisplayAlert("Errado!", "Tente novamente!", "OK");
+        }
     }
 }

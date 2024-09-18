@@ -3,12 +3,11 @@
 public partial class MainPage : ContentPage
 {
 	
-
 	public MainPage()
 	{
 		InitializeComponent();
 	}
-	public void Gozei()
+	public void Douglas()
 	{
 		Navigation.PushAsync(new GamePage());
 	}

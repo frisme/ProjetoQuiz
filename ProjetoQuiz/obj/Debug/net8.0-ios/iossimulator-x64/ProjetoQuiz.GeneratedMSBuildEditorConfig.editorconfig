@@ -12,47 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoQuiz
-build_property.ProjectDir = C:\Users\Aluno\ProjetoQuiz\ProjetoQuiz\
+build_property.ProjectDir = C:\Users\Aluno\ProjetoQuiz-1\ProjetoQuiz\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/App.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/AppShell.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/GamePage.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/GamePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.GamePage.xaml
 build_metadata.AdditionalFiles.TargetPath = GamePage.xaml
 build_metadata.AdditionalFiles.RelativePath = GamePage.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/MainPage.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/Questao.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/Questao.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.Questao.xaml
 build_metadata.AdditionalFiles.TargetPath = Questao.xaml
 build_metadata.AdditionalFiles.RelativePath = Questao.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/Resources/Styles/Colors.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Aluno/ProjetoQuiz/ProjetoQuiz/Resources/Styles/Styles.xaml]
+[C:/Users/Aluno/ProjetoQuiz-1/ProjetoQuiz/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoQuiz.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
